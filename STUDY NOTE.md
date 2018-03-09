@@ -1,0 +1,1 @@
+``slot`` allow user passing data from outside,and render it in the child component
